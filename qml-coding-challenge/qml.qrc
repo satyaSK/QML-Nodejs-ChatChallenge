@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>../nodejs-websocket-server/index.js</file>
+        <file>ChatView.qml</file>
+    </qresource>
+</RCC>
